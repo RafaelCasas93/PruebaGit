@@ -1,5 +1,8 @@
 <html>
-<body>
-	<p> Esto es una prueba</p>
-</body>
+	<head>
+		Prueba
+	</head>
+	<body>
+		<p> Esto es una prueba</p>
+	</body>
 </html>
